@@ -5,6 +5,8 @@
 ### Different size facets 
 
 `ggforce::facet_row()`
+![](image.png | width=50)
+source: [@tjmaher](https://twitter.com/tjmahr/status/1229478565873356800)
 
 
 ## Tables
